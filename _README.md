@@ -12,7 +12,7 @@ npm install --save afeiship/react-position-box --registry=https://registry.npm.t
 ```
 
 ```js
-import ReactPositionBox from 'react-position-box';
+import {ReactPositionBox, ReactPositionChild} from 'react-position-box';
 ```
 
 ```scss
